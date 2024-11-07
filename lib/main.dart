@@ -212,7 +212,7 @@ class ProdutoDetalhesPage extends StatelessWidget {
                       builder: (context) {
                         return AlertDialog(
                           title: Text(
-                            "Confirmar Operação",
+                            "Confirmar Delete",
                             style: TextStyle(
                               color: Colors.black,
                               fontSize: 26,
